@@ -30,8 +30,12 @@ Example:
 theList = list(('apple', 'banana', 'mango', 'orange'))
 print(theList)
 ```
-
-
+> Lists items are indexed and can access them by referring to the index number.
+ Example:
+```python
+theList = ['apple', 'orange', 'banana', 'mango']
+print(theList[1])
+```
 
 
 
