@@ -36,8 +36,13 @@ print(theList)
 theList = ['apple', 'orange', 'banana', 'mango']
 print(theList[1])
 ```
-
-
+> To add an item into the end of a list use append() method.
+ Example:
+```python
+theList = ['apple', 'orange', 'banana', 'mango']
+theList.append('blueberry')
+print(theList)
+```
 
 
 
