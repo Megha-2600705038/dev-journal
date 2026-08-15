@@ -43,7 +43,13 @@ theList = ['apple', 'orange', 'banana', 'mango']
 theList.append('blueberry')
 print(theList)
 ```
-
+> To insert a item into the list use insert()
+Example:
+```python
+theList = ['apple', 'orange', 'banana', 'mango']
+theList(1,'tomatto')
+print(theList)
+``` 
 
 
 
