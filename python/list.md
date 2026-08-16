@@ -49,8 +49,14 @@ Example:
 theList = ['apple', 'orange', 'banana', 'mango']
 theList(1,'tomatto')
 print(theList)
-``` 
-
+```
+> To remove a specific item from the list use remove().
+Example:
+```python
+theList = ['apple', 'orange', 'banana', 'mango']
+theList('apple')
+print(theList)
+```
 
 
 
