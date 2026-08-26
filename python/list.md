@@ -57,6 +57,19 @@ theList = ['apple', 'orange', 'banana', 'mango']
 theList('apple')
 print(theList)
 ```
+> To remove a specified index use pop().
+Example:
+```python
+theList = ['apple', 'orange', 'banana', 'mango']
+theList(1)
+print(theList)
+```
+> The clear() empties the list. The list still remains, but it has no content.
+Example:
+```python
+theList.clear()
+print(theList)
+```
 
 
 
