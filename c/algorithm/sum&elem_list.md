@@ -1,3 +1,5 @@
+```Algorithm
+
 //Algorithm sum&element_list(A,n)
 //A is an array with size n;
 // {
@@ -9,4 +11,5 @@
 //     print A[j];
 // }
 
+```
 O(n)
