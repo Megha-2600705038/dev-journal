@@ -7,5 +7,6 @@ A is an array with size n and num is a number to multiply with the array:
 
      return 0;
 }
+
 ```
 // big o = n + 1+1 = n+2 = n =>O(n)
