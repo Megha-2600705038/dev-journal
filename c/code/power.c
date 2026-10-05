@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 long long power(int x, int n){
     
     long long result = 1;
